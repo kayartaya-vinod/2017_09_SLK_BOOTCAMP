@@ -1,0 +1,38 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link rel="stylesheet" type="text/css" href="assets/thirdparty/bootstrap/css/bootstrap.css">
+	
+	<script src="assets/thirdparty/jquery/jquery-3.2.1.js"></script>
+	<script src="assets/thirdparty/bootstrap/js/bootstrap.js"></script>
+	
+	<title>Address Book App</title>
+</head>
+<body>
+	<div class="container">
+		<div  class="well lead">
+		<a href="./"> Address Book App</a>
+			<span class="pull-right">
+			<a href="./view-all" class="btn btn-primary">
+				<span class="glyphicon glyphicon-th-list"></span>
+				View all</a>
+			<a href="./add-contact" class="btn btn-primary">
+				<span class="glyphicon glyphicon-user"></span>
+				Add contact</a>
+			</span>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

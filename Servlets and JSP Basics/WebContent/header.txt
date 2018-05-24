@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Contact details</title>
+	<link rel="stylesheet" type="text/css" href="assets/thirdparty/bootstrap/css/bootstrap.css" >
+	
+	<script type="text/javascript" src="assets/thirdparty/jquery/jquery-3.2.1.js"></script>
+	<script type="text/javascript" src="assets/thirdparty/bootstrap/js/bootstrap.js"></script>
+</head>
+<body>
+<div class="container">
+	<h1>Contact details</h1>
+	<hr />
+	
+	
+<%--
+How to include this file in all other JSPs?
+
+<%@ include file="./header.txt" %>
+
+--%>
